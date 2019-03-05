@@ -2,15 +2,15 @@
 %Author: 
 %       Yong Li
 %Email:
-%       yong.li@nlpr.ia.ac.cn
+%       liyongforevercas@163.com
 %Department:
 %       National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences
 %
 %Description:
     %To learn low-rank representations with classwise block-diagonal structure for robust face recognition.
 %Reference:
-    %Y. Li, J. Liu, Z. Li, Y. Zhang, H. Lu, and S. Ma, ¡°Learning low-rank representations with classwise block-diagonal structure for robust face recognition,¡± 
-    %in AAAI Conference on Artificial Intelligence, 2014, pp.2810¨C2816.
+    %Y. Li, J. Liu, Z. Li, Y. Zhang, H. Lu, and S. Ma, Â¡Â°Learning low-rank representations with classwise block-diagonal structure for robust face recognition,Â¡Â± 
+    %in AAAI Conference on Artificial Intelligence, 2014, pp.2810Â¨C2816.
     
 % CBDS Copyright 2014, Yong Li (yong.li@nlpr.ia.ac.cn)
 % CBDS is free software: you can redistribute it and/or modify
